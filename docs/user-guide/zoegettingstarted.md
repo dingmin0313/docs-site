@@ -4,11 +4,11 @@ The Zowe installation files are distributed as a PAX file that contains the runt
 
 To obtain a Zowe PAX file, visit [Zowe download page](https://github.com/gizafoundation/Downloads/releases) in GitHub. For each release, there is a PAX file named `project_zowe-v.r.m.pax`, where
 
-- `v` indicates the version
-- `r` indicates the release number
-- `m` indicates the modification number
+- `v` represents the version
+- `r` represents the release number
+- `m` represents the modification number
 
-The numbers are incremented each time a release is created so the higher the numbers, the later the release.  Use your web browser to download the PAX file by saving it to a folder on your desktop.
+The numbers are incremented each time a release is created so the higher the numbers are, the later the release is.  Use your web browser to download the PAX file by saving it to a folder on your desktop.
 
 Follow these steps to transfer the PAX file to z/OS and prepare it to install the Zowe runtime.
 
