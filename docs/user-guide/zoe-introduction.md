@@ -10,7 +10,7 @@ Project Zowe consists of the following main components. Each component provides 
 
 - [Explorer server](atlas-overview.md): Provides a range of APIs for the management of jobs, data sets, z/OS UNIX System Services files, and persistent data.
 
-- [Zowe CLI](cli-releasenotes.md): Provides a command-line interface that lets you interact with the mainframe remotely and use common tools such as Integrated Development Environments (IDEs), shell commands, bash scripts, and build tools for mainframe development. It provides a set of utilities and services for application developers that want to become efficient in supporting and building z/OS applications quickly.
+- [Zowe CLI](cli-releasenotes.md): Provides a command-line interface that lets you interact with the mainframe remotely and use common tools such as Integrated Development Environments (IDEs), shell commands, bash scripts, and build tools for mainframe development. It provides a set of utilities and services for application developers who want to become efficient in supporting and building z/OS applications quickly.
 
 For details of each component, see the corresponding section.
 
