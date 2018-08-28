@@ -30,11 +30,11 @@ So, with that in mind, follow each step and you'll be on your way to your first 
 ### 0. (Optional) Install git for z/OS
 
 Because all of our code is on github, yet ZSS must run on z/OS and the zLUX Proxy Server may optionally run on z/OS as well, having git on z/OS is the most convenient way to work with the source code. The alternative would be to utilize FTP or another method to transfer contents to z/OS.
-If you'd like to go this route, you can find git for z/OS free of charge here: http://www.rocketsoftware.com/product-categories/mainframe/git-for-zos
+If you'd like to go this route, you can find git for z/OS free of charge here: http://www.rocketsoftware.com/product-categories/mainframe/git-for-zos (make it a hyperlink so that users do not have to copy the URL to the browser).
 
 ### 1. Acquire the source code
 
-To get started, first clone or download the github capstone repository, https://github.com/zowe/zlux
+To get started, first clone or download the github capstone repository, https://github.com/zowe/zlux ((make it a hyperlink so that users do not have to copy the URL to the browser).
 As we'll be configuring ZSS on z/OS's USS, and the zLUX Proxy Server on a LUW host, you'll need to put the contents on both systems.
 If using git, the following commands should be used:
 
