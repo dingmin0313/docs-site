@@ -175,7 +175,7 @@ Once here, you should be greeted with a Login screen and a few example Apps in t
 - sample-app: A simple app showing how a zLUX App frontend (Angular) component can communicate with an App backend (REST) component.
 
 #### Deploy example
-
+(what is the relationship between Deploy example and 7. Connect in a browser?)
 ```
 // All paths relative to zlux-example-server/js or zlux-example-server/bin
 // In real installations, these values will be configured during the install.
