@@ -4,7 +4,7 @@ This is an example of a server built upon the zLUX framework. Within, you will f
 
 ## Server layout
 
-At the core of the zLUX App infrastructure backend is an extensible server, written for nodeJS and utilizing expressJS for routing. It handles the backend components of Apps, and also can server as a proxy for requests from Apps to additional servers as needed. One such proxy destination is the ZSS - the zLUX backend component for **Z Secure Services**. It is recommended that everyone who is going to set up a zLUX install contact the Zowe Project, which can provide the ZSS binary to use in the install.
+At the core of the zLUX App infrastructure backend is an extensible server, written for nodeJS and utilizing expressJS for routing. It handles the backend components of Apps, and also can serve as a proxy for requests from Apps to additional servers as needed. One such proxy destination is the ZSS - the zLUX backend component for **Z Secure Services**. It is recommended that everyone who is going to set up a zLUX install contact the Zowe Project,(how to contact Zowe project?) which can provide the ZSS binary to use in the install.
 
 ### ZSS & zLUX Server overlap
 
