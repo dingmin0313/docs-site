@@ -1,4 +1,4 @@
-# Standup a local version of the zLUX Example Server
+# Setting up a local version of the zLUX Example Server
 
 This is an example of a server built upon the zLUX framework. Within, you will find a collection of build, deploy, and run scripts as well as configuration files that will help you to configure a simple zLUX server with a few Apps included.
 
